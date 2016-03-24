@@ -11,7 +11,7 @@ build:
 
   ci:
     - ps -eax
-    - ls -al
+    - ls -aldg
     #PR
     
 integrations:
